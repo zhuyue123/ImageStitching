@@ -1,0 +1,3 @@
+# ImageStitching
+图像横向拼接~windows下会报错但不会影响结果~
+在UNIT_SIZE中更改单张图片的尺寸大小，在TARGET_WIDTH中更改拼接的个数
